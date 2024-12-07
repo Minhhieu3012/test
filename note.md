@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+local
+remote
 
 #Command
 
@@ -17,4 +19,5 @@ Conflict
 - git branch
 - git checkout -b {branch name}
 - git merge {branch name}
-* git branch -d {branch name}
+- git branch -d {branch name}
+- git push
