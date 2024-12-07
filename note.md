@@ -20,4 +20,8 @@ remote
 - git checkout -b {branch name}
 - git merge {branch name}
 - git branch -d {branch name}
-- git push
+- git push "tên" master
+- git remote add "tên remote" "link repo"
+- git fetch "tên remote"
+- git checkout -b "nhánh tạo trên github" "tên remote"/"nhánh tạo trên github"
+
