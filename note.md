@@ -24,4 +24,7 @@ remote
 - git remote add "tên remote" "link repo"
 - git fetch "tên remote"
 - git checkout -b "nhánh tạo trên github" "tên remote"/"nhánh tạo trên github"
+- git pull
+- git clone {repo url}
+
 
